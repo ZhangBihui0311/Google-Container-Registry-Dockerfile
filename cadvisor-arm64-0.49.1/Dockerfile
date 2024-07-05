@@ -1,0 +1,1 @@
+FROM gcr.io/cadvisor/cadvisor-arm64:v0.49.1
