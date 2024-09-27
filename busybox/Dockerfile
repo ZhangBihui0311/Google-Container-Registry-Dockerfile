@@ -1,1 +1,1 @@
-FROM busybox/busybox:stable
+FROM busybox:stable
