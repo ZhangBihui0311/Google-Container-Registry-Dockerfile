@@ -1,1 +1,1 @@
-FROM docker.io/busybox/busybox
+FROM docker.io/busybox/busybox:latest
