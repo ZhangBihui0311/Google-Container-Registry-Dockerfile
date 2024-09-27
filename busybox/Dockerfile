@@ -1,1 +1,1 @@
-FROM docker.io/busybox/busybox:latest
+FROM FROM arm64v8/busybox
