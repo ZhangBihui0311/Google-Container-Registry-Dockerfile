@@ -1,1 +1,1 @@
-FROM arm64v8/busybox
+FROM arm64v8/busybox:1.35
